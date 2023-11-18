@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shreyas Sugandhi</h1>
-<h3 align="center">A passionate BI Developer from India.</h3>
+<h3 align="center">A passionate BI developer from India </h3>
 
-- 🔭 I’m currently working on [Israel - Palestine Fatalities](https://github.com/ShreyasSugandhi/Israel-Palestine_Fatalities_complete_EDA)
+- 🔭 I’m currently working on DATA ANALYTICS, VISUALIZATIONS.
 
-- 🌱 I’m currently learning **Power BI DAX, Machine Learning, different uses of AI for daily work.**
+- 🌱 I’m currently learning **Power BI DAX, Machine Learning, and different uses of AI for daily work.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShreyasSugandhi](https://github.com/ShreyasSugandhi)
 
-- 💬 Ask me about **Data Analysis,BI,Business Strategies and Management.**
+- 💬 Ask me about **Data Analysis, BI, Business Strategies and Management.**
 
-- 📫 How to reach me **shreyashsugandhi@gmail.com**
+- 📫 How to reach me: shreyashsugandhi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
